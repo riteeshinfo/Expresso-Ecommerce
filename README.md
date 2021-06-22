@@ -1,5 +1,5 @@
 # Expresso
-#Features
+Features
 Full featured shopping cart
 Product reviews and ratings
 Top products carousel
